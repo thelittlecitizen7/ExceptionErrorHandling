@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.exe
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.deps.json
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.runtimeconfig.json
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.runtimeconfig.dev.json
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.dll
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\bin\Debug\netcoreapp3.1\ExceptionErrorHandling.pdb
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.AssemblyInfo.cs
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.dll
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.pdb
+C:\Users\thelittlecitizen7\source\repos\ExceptionErrorHandling\ExceptionErrorHandling\obj\Debug\netcoreapp3.1\ExceptionErrorHandling.genruntimeconfig.cache
